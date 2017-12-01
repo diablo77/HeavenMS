@@ -47,4 +47,10 @@
 /tools/MapleSkillMakerReagentIndexer/dist/
 /tools/MapleSkillMakerReagentIndexer/nbproject/private/
 
-/out
+# Eclipse IDE
+.classpath
+.project
+.settings/
+
+# Maven
+/target/
